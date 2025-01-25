@@ -13,7 +13,8 @@ Always build first using `npm run build` and start the server using `npm start`,
 - Clone the github repository
 - Pip install all the given requirements as provided in the installation part.
 - The database used is PostgreSQL.
-- Hit the APIs given in Postman collection. (Postman Link: `https://app.getpostman.com/join-team?invite_code=f44ae8276ff6c77b0075dd13b09a1efc758697862fd27f1e956369f8dc0faef1` )
+- Hit the APIs given in Postman collection. \
+  (Postman Link: `https://app.getpostman.com/join-team?invite_code=f44ae8276ff6c77b0075dd13b09a1efc758697862fd27f1e956369f8dc0faef1` )
 - After registeration and login, provide the JWT token to bearer authentication in Postman. Only after that, other APIs will be accessible.
 - To start the server, use command: `npm start` \
   Hit the API's (in Postman or Thunderclient) in this order: 
