@@ -3,6 +3,7 @@ import { sequelize } from './database';
 
 const PORT = process.env.PORT || 3000;
 
+
 (async () => {
   try {
     await sequelize.sync();
